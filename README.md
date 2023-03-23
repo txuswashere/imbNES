@@ -22,14 +22,21 @@ Not all games are guaranteed to work correctly, and some games may have graphica
 https://archive.org/details/imbnes-1.3.4/
 
 Pasos para crear la ISO con las ROMS:
+
 ![imbNES](https://github.com/txuswashere/imbNES/raw/main/imbNES/imbnes-1.jpg)
-Descomprime el archivo, y ejecuta el programa "rombank".
+
+* Descomprime el archivo, y ejecuta el programa "rombank".
+
 ![imbNES](https://github.com/txuswashere/imbNES/raw/main/imbNES/imbnes-2.jpg)
-Carga las ROMS en formato .NES de la carpeta donde las tengas guardadas.
+
+* Carga las ROMS en formato .NES de la carpeta donde las tengas guardadas.
+
 ![imbNES](https://github.com/txuswashere/imbNES/raw/main/imbNES/imbnes-3.jpg)
-Una vez haya cargado las ROMS el programa, le dais abajo al icono en forma de disco compacto y os compilará un archivo de imagen BIN + CUE para grabar con cualquier programa de grabación compatible.
+
+* Una vez haya cargado las ROMS el programa, le dais abajo al icono en forma de disco compacto y os compilará un archivo de imagen BIN + CUE para grabar con cualquier programa de grabación compatible.
+
 ![imbNES](https://github.com/txuswashere/imbNES/raw/main/imbNES/imbnes-4.jpg)
 
-Con el START la ejecutamos, con el botón triángulo vamos a las opciones, y apretando los botones L1,L2,R1,R2, SELECT y START a la vez reiniciamos el emulador para cambiar de juego.
+* Con el START la ejecutamos, con el botón triángulo vamos a las opciones, y apretando los botones L1,L2,R1,R2, SELECT y START a la vez reiniciamos el emulador para cambiar de juego.
 
 ![imbNES](https://github.com/txuswashere/imbNES/raw/main/imbNES/imbnes-psx.jpg)
