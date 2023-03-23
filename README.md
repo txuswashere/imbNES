@@ -22,7 +22,7 @@ Not all games are guaranteed to work correctly, and some games may have graphica
 
 
 ### Descargar el emulador imbNES 1.3.4
-https://archive.org/details/imbnes-1.3.4/
+https://github.com/txuswashere/imbNES/raw/main/imbnes-1.3.4-winbin.zip
 
 Pasos para crear la ISO con las ROMS:
 
